@@ -1,0 +1,32 @@
+@media (max-width: 750px){
+    .products {
+        display: inherit;
+        height: auto;
+        background-size: cover;
+        max-height: none;
+    }
+
+    .product {
+        margin-top: auto;
+    }
+
+    .main_section {
+        padding: 4%;
+    }
+
+    .benefits, .mentions {
+        display: inherit;
+    }
+
+
+    .mention img {
+       width: 100%;   
+       margin-right: 0px; 
+    }
+
+    .contact ul {
+        flex-wrap: wrap;
+    }
+
+    
+}
